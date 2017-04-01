@@ -1,0 +1,32 @@
+<resource>
+  <message>
+    <key>.- -.-. -.-. --- .-. -.. .. -. --. </key>
+    <original> - --- </original>
+    <translation> .- .-.. .-.. </translation>
+  </message>
+  <message>
+    <key>-.- -. --- .-- -.</key>
+    <original> .-.. .- .-- ...</original>
+    <translation> --- ..-. </translation>
+  </message>
+  <message>
+    <key> .- ...- .. .- - .. --- -. --..-- </key>
+    <original> - .... . .-. . </original>
+    <translation>.. ... </translation>
+  </message>
+  <message>
+    <key>-. --- </key>
+    <original>.-- .- -.-- </original>
+    <translation> .- </translation>
+  </message>
+  <message>
+    <key> -... . . </key>
+    <original> ... .... --- ..- .-.. -.. </original>
+    <translation> -... . </translation>
+  </message>
+  <message>
+    <key> .- -... .-.. . </key>
+    <original> - --- </original>
+    <translation> ..-. .-.. -.-- .-.-.- </translation>
+  </message>
+</resource>
